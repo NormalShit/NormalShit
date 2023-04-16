@@ -8,5 +8,5 @@
   <br>
   📫 Como contactarme: 
   <br>
-  Discord <a href="mailto: https://discord.com/channels/@me">!          shit#6666</a>
+  Discord <a href="mailto: !          shit#6666">!          shit#6666</a>
 </p>
