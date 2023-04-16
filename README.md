@@ -8,7 +8,5 @@
   <br>
   📫 Como contactarme: 
   <br>
-  Gmail <a href="mailto: j4kspmmp@gmail.com">j4kspmmp@gmail.com</a>
-  <br>
-  Discord <a href="mailto: J4k's#9330">J4k's#9330</a>
+  Discord <a href="mailto: https://discord.com/channels/@me">!          shit#6666</a>
 </p>
