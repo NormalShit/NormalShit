@@ -1,4 +1,4 @@
-<h3 align="center">Hola, Soy NSh 👋</h3>
+<h3 align="center">Hola, Soy Code 👋</h3>
   <br>
   🎓 Libre en las tardes [ COL ]
   <br>
