@@ -6,7 +6,7 @@
 Free in the afternoons, **COLOMBIAN** time 👺
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NormalShit&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NormalShit&show_icons=true&title_color=2d0269&icon_color=2d0269&text_color=ffffff&bg_color=000000)
 
 ## Lenguajes Utilizados
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=NormalShit&layout=compact&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
